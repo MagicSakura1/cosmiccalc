@@ -419,6 +419,7 @@
 {id:1003,name:"Windlynx AM",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 {id:1006,name:"Shadow Kinesis AM",cost:40,hp:25,tec:1,wlk:2,fly:-1,tgh:3}
 {id:1010,name:"Brink AM",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2}
+{id:195,name:"Bloody Star AM3",type:"c",size:"M",cost:25,hp:15,tec:2,joint:{wp:2},str:1,fixedParts:{wp:{name:"Bloody Star AM3@",main:{tec:100,pwr:10,shl:300,rng:320,spd:420,itv:200},type:"c",size:"M",cost:50,slot:0}}
 //last:1014
 
 {group:"L Size",prefixID:"L",commonStat:{size:"L"}}
