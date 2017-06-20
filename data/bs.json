@@ -402,7 +402,6 @@
 {id:176,name:"Rayminous BS2",main:{pwr:24,shl:15,rng:250,spd:570,itv:1300},tunable:{mwp:1},type:"c",cost:115,hp:10,tec:1,fly:1}
 // {id:177,name:"フェアリスBS",joint:{wp:1},cost:35,wlk:2,type:"a",size:"M",fly:3,hp:25}
 {id:178,name:"Bloody Star BS",type:"c",cost:35,hp:20,str:1,wlk:2,fly:2}
-{id:201,name:"Bloody Star BS2",type:"c",cost:20,hp:10,str:1,wlk:1,fly:2}
 {id:179,name:"Dark Mist BS",sub:{pwr:15,shl:10,rng:80,spd:160,itv:1200},type:"lcs",cost:65}
 {id:180,name:"Sovlancer BS",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
 {id:181,name:"Chronos Machina Wing ALPHA",size:"M",cost:30,wlk:2,fly:2,hp:15}
